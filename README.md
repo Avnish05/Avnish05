@@ -25,7 +25,7 @@ A **Java Full Stack Developer** who loves turning coffee ☕ into **Spring Boot 
 - 🔹 [Marketplace Kit](https://github.com/Avnish05/marketplacekit)  
 
 ## 💬 Let's Connect!  
-📧 **Email:** [avnish.d@themailpad.com](mailto:avnish.d@themailpad.com)  
+<-- 📧 **Email:** [avnish.d@themailpad.com](mailto:avnish.d@themailpad.com)  -->
 🔗 **LinkedIn:** [linkedin.com/in/avnish-dubey](https://www.linkedin.com/in/avnish-dubey-826411141/)  
 🐙 **GitHub:** [github.com/Avnish05](https://github.com/Avnish05)  
 
